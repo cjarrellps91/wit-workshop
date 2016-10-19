@@ -1,0 +1,13 @@
+body {
+	background-color: grey;
+}
+.plain-list {
+	list-style: none;
+}
+p {
+	color: white;
+}
+#ProfileImage {
+	width: 300px;
+	float: right;
+}
